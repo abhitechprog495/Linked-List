@@ -1,5 +1,3 @@
-# Linked-List
-Program For Inserting And Deleting Of Data In A Linked List
 There are 3 C Source Code Files In The Repository.
 
 1. INSERTION.C
@@ -16,3 +14,4 @@ This can include with INSERTION.C file to work properly.
 3. FULLOPS.C
 
 It is a hybrid of INSERTION.C and DELETION.C file.
+This is the full operation code of linked list.
